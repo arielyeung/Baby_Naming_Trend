@@ -5,17 +5,14 @@ Ever wonder how many people in the US share the same name as you? The naming tre
 
 The project is inspired by this dataset. I would like to look at what might affect how parents in the US name their babies and some recent naming trends through visualization.
 
-Although the data from as early as 1910 is available, I've decided to focus on data starting from 1936 for more accurate trend since the Social Security Administration was established in August 14, 1935 and probably not that many people applied for Social Security before that. 
 
-<div>
-    <a href="https://plot.ly/~arielyeung/233/?share_key=MCK7tVfjmzYbAHVm4TkkYX" target="_blank" title="birth_names_trend" style="display: block; text-align: center;"><img src="https://plot.ly/~arielyeung/233.png?share_key=MCK7tVfjmzYbAHVm4TkkYX" alt="birth_names_trend" style="max-width: 100%;width: 600px;"  width="1000" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
-</div>
-
-One of that factors that I explored is celebrity influence. From the naming trend of Kobe, we can see the NBA star Kobe Bryant definitely ... 
+One of the factors that I explored is celebrity influence. The naming trend of the name Kobe suggests that the NBA star Kobe Bryant does influence people's decision in choosing a baby name. 
 
 <div>
     <a href="https://plot.ly/~arielyeung/237/?share_key=1Lp9PMtcdaR8ALtkX4n6LV" target="_blank" title="kobe_trend" style="display: block; text-align: center;"><img src="https://plot.ly/~arielyeung/237.png?share_key=1Lp9PMtcdaR8ALtkX4n6LV" alt="kobe_trend" style="max-width: 100%;width: 600px;"  width="1000" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
 </div>
+
+
 
 
 
