@@ -7,6 +7,12 @@ The project is inspired by this dataset and I would like to look at the trends i
 
 Although the data from as early as 1910 is available, I've decided to focus on data starting from 1936 for more accurate trend since the Social Security Administration was established in August 14, 1935 and probably not that many people applied for Social Security before that. 
 
+<div>
+    <a href="https://plot.ly/~arielyeung/233/?share_key=MCK7tVfjmzYbAHVm4TkkYX" target="_blank" title="birth_names_trend" style="display: block; text-align: center;"><img src="https://plot.ly/~arielyeung/233.png?share_key=MCK7tVfjmzYbAHVm4TkkYX" alt="birth_names_trend" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="arielyeung:233" sharekey-plotly="MCK7tVfjmzYbAHVm4TkkYX" src="https://plot.ly/embed.js" async></script>
+</div>
+
+
 
 ## Future Research Direction
 XXX
