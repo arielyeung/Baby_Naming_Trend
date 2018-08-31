@@ -21,6 +21,8 @@ For boys, we have Mason and Noah.
 ![](https://github.com/arielyeung/Baby_Naming_Trend/blob/master/Visualization/male_recent_wordcloud.png)
 
 
+For the rest of the project I also explored the naming trend and geographic difference of some celebrities' name, as well as some recent popular names.
+
 
 ## Future Research Direction
 XXX
