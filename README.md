@@ -11,8 +11,10 @@ Although the data from as early as 1910 is available, I've decided to focus on d
     <a href="https://plot.ly/~arielyeung/233/?share_key=MCK7tVfjmzYbAHVm4TkkYX" target="_blank" title="birth_names_trend" style="display: block; text-align: center;"><img src="https://plot.ly/~arielyeung/233.png?share_key=MCK7tVfjmzYbAHVm4TkkYX" alt="birth_names_trend" style="max-width: 100%;width: 600px;"  width="1000" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
 </div>
 
+
+
 <div>
-    <a href="https://plot.ly/~arielyeung/235/?share_key=LQsPKgwqW7Phfni69w1fdT" target="_blank" title="kobe_trend" style="display: block; text-align: center;"><img src="https://plot.ly/~arielyeung/235.png?share_key=LQsPKgwqW7Phfni69w1fdT" alt="kobe_trend" style="max-width: 100%;width: 600px;"  width="1000" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <a href="https://plot.ly/~arielyeung/237/?share_key=1Lp9PMtcdaR8ALtkX4n6LV" target="_blank" title="kobe_trend" style="display: block; text-align: center;"><img src="https://plot.ly/~arielyeung/237.png?share_key=1Lp9PMtcdaR8ALtkX4n6LV" alt="kobe_trend" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
 </div>
 
 
