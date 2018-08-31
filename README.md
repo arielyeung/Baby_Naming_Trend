@@ -18,10 +18,9 @@ XXX
 
 |Data|
 |---|
-|[Original_2017_full](https://github.com/arielyeung/Happiness_Analysis/blob/master/Data/Original_2017_full.csv)<br>*The original dataset of World Happiness Report which contains data from 2005 to 2017*|
-|[Original_2017_region](https://github.com/arielyeung/Happiness_Analysis/blob/master/Data/Original_2017_region.csv)<br>*Region list used by World Happiness Report*|
-|[relig_iso](https://github.com/arielyeung/Happiness_Analysis/blob/master/Data/relig_iso.csv)<br>*2016 Global religion population percentage data*|
-|[DataSourcesAndVariableDef](https://github.com/arielyeung/Happiness_Analysis/blob/master/Data/DataSourcesAndVariableDef.pdf)<br>*Data sources and variable definitions by World Happiness Report*|
+|[Name_by_state](https://github.com/arielyeung/Baby_Naming_Trend/tree/master/Data/Name_by_state)<br>*The naming trend dataset from Social Security application*|
+|[Birth_data](https://github.com/arielyeung/Baby_Naming_Trend/blob/master/Data/Birth_data.csv)<br>*The number of babies born each year*|
+|[StateReadMe](https://github.com/arielyeung/Baby_Naming_Trend/blob/master/Data/StateReadMe.pdf)<br>*Data sources and variable definitions for Social Security application data*|
 
 |Visualization|
 |---|
