@@ -29,7 +29,7 @@ XXX
 
 
 ## Index of Repository
-[Analysis](XXX)<br> *Codes of my analysis, including interactive plots showing naming trend over time and regional difference*
+[Analysis](https://nbviewer.jupyter.org/github/arielyeung/Baby_Naming_Trend/blob/master/Analysis.ipynb)<br> *Codes of my analysis, including interactive plots showing naming trend over time and regional difference*
 
 
 |Data|
