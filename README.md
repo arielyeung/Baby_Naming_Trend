@@ -40,10 +40,10 @@ XXX
 
 |Visualization|
 |---|
-|[Heatmap_of_world_happiness](https://github.com/arielyeung/Happiness_Analysis/blob/master/Visualization/HappinessByCountry_Heatmap.png)<br>*Distribution of happiness level around the world 2016*|
-|[Happiness_trend](https://github.com/arielyeung/Happiness_Analysis/blob/master/Visualization/Happiness_Trend_LineChart.png)<br>*Happiness scores from year 2005 to 2017*|
-|[Happiness_GDP](https://github.com/arielyeung/Happiness_Analysis/blob/master/Visualization/Happiness_GDP_ScatterPlot.png)<br>*Scatter plot between happiness scores and GDP per capita among regions*|
-|[Happiness_religion](https://github.com/arielyeung/Happiness_Analysis/blob/master/Visualization/Happiness_Religion_ScatterPlot.png)<br>*Scatter plot between happiness scores and religion percentage among regions*|
+|[all_birth_popular_name_trend](https://github.com/arielyeung/Baby_Naming_Trend/blob/master/Visualization/all_birth_popular_name_trend.png)<br>*Trend of the total no. of babies born and no. of babies with popular names from 1910-2016*|
+|[birth_popular_name_trend](https://github.com/arielyeung/Baby_Naming_Trend/blob/master/Visualization/birth_popular_name_trend.png)<br>*Trend of the total no. of babies born and no. of babies with popular names from 1936-2016*|
+|[birth_unique_name_trend](https://github.com/arielyeung/Baby_Naming_Trend/blob/master/Visualization/birth_unique_name_trend.png)<br>*Trend of the total no. of babies born and no. of unique names used*|
+|[celebrity_*name*_trend](https://github.com/arielyeung/Baby_Naming_Trend/tree/master/Visualization)<br>*Naming Trend of *name**|
 |[Happiness_SocialSupport](https://github.com/arielyeung/Happiness_Analysis/blob/master/Visualization/Happiness_SocialSupport_ScatterPlot.png)<br>*Scatter plot between happiness scores and social support among regions*|
 |[Happiness_Gene](https://github.com/arielyeung/Happiness_Analysis/blob/master/Visualization/Happiness_Gene_BoxPlot.png)<br>*Boxplot to show the difference on happiness level between two types of gene groups*|
 |[Happiness_LifeExpectancy](https://github.com/arielyeung/Happiness_Analysis/blob/master/Visualization/Happiness_LifeExpectancy_ScatterPlot.png)<br>*Scatter plot between happiness scores and life expectancy among regions*|
