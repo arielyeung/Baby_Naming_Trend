@@ -44,7 +44,7 @@ XXX
 |[birth_popular_name_trend](https://github.com/arielyeung/Baby_Naming_Trend/blob/master/Visualization/birth_popular_name_trend.png)<br>*Trend of the total no. of babies born and no. of babies with popular names from 1936-2016*|
 |[birth_unique_name_trend](https://github.com/arielyeung/Baby_Naming_Trend/blob/master/Visualization/birth_unique_name_trend.png)<br>*Trend of the total no. of babies born and no. of unique names used*|
 |[celebrity_(name)_trend](https://github.com/arielyeung/Baby_Naming_Trend/tree/master/Visualization)<br>*Naming Trend of (name) and how it correlates with celebrity's career*|
-|[celebrity_(name)_map](https://github.com/arielyeung/Baby_Naming_Trend/tree/master/Visualization)<br>*% of babies named (name) by state*|
+|[celebrity_(name)_map](https://github.com/arielyeung/Baby_Naming_Trend/tree/master/Visualization)<br>*% of babies with celebrity name by state*|
 |[Happiness_Gene](https://github.com/arielyeung/Happiness_Analysis/blob/master/Visualization/Happiness_Gene_BoxPlot.png)<br>*Boxplot to show the difference on happiness level between two types of gene groups*|
 |[Happiness_LifeExpectancy](https://github.com/arielyeung/Happiness_Analysis/blob/master/Visualization/Happiness_LifeExpectancy_ScatterPlot.png)<br>*Scatter plot between happiness scores and life expectancy among regions*|
 |[Happiness_Freedom](https://github.com/arielyeung/Happiness_Analysis/blob/master/Visualization/Happiness_Freedom_ScatterPlot.png)<br>*Scatter plot between happiness scores and freedom level among regions*|
