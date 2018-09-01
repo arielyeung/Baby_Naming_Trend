@@ -42,10 +42,11 @@ XXX
 |---|
 |[all_birth_popular_name_trend](https://github.com/arielyeung/Baby_Naming_Trend/blob/master/Visualization/all_birth_popular_name_trend.png)<br>*Trend of the total no. of babies born and no. of babies with popular names from 1910-2016*|
 |[birth_popular_name_trend](https://github.com/arielyeung/Baby_Naming_Trend/blob/master/Visualization/birth_popular_name_trend.png)<br>*Trend of the total no. of babies born and no. of babies with popular names from 1936-2016*|
+|[unpopular_trend](https://github.com/arielyeung/Baby_Naming_Trend/blob/master/Visualization/unpopular_trend.png)<br>*Trend of the no. of babies born with unpopular names*|
 |[birth_unique_name_trend](https://github.com/arielyeung/Baby_Naming_Trend/blob/master/Visualization/birth_unique_name_trend.png)<br>*Trend of the total no. of babies born and no. of unique names used*|
 |[celebrity_(name)_trend](https://github.com/arielyeung/Baby_Naming_Trend/tree/master/Visualization)<br>*Naming Trend of (name) and how it correlates with celebrity's career*|
 |[celebrity_(name)_map](https://github.com/arielyeung/Baby_Naming_Trend/tree/master/Visualization)<br>*% of babies with celebrity name by state*|
-|[Happiness_Gene](https://github.com/arielyeung/Happiness_Analysis/blob/master/Visualization/Happiness_Gene_BoxPlot.png)<br>*Boxplot to show the difference on happiness level between two types of gene groups*|
-|[Happiness_LifeExpectancy](https://github.com/arielyeung/Happiness_Analysis/blob/master/Visualization/Happiness_LifeExpectancy_ScatterPlot.png)<br>*Scatter plot between happiness scores and life expectancy among regions*|
-|[Happiness_Freedom](https://github.com/arielyeung/Happiness_Analysis/blob/master/Visualization/Happiness_Freedom_ScatterPlot.png)<br>*Scatter plot between happiness scores and freedom level among regions*|
-|[GDP_religion](https://github.com/arielyeung/Happiness_Analysis/blob/master/Visualization/GDP_Religion_ScatterPlot.png)<br>*Scatter plot between GDP per capita and religion percentage among regions*|
+|[female_recent_wordcloud](https://github.com/arielyeung/Baby_Naming_Trend/blob/master/Visualization/female_recent_wordcloud.png)<br>*Wordcloud showing the most popular baby girl name in the past decade*|
+|[male_recent_wordcloud](https://github.com/arielyeung/Baby_Naming_Trend/blob/master/Visualization/male_recent_wordcloud.png)<br>*Wordcloud showing the most popular baby boy name in the past decade*|
+|[recent_(name)_trend](https://github.com/arielyeung/Baby_Naming_Trend/tree/master/Visualization)<br>*Naming Trend of (name)*|
+|[recent_(name)_map](https://github.com/arielyeung/Baby_Naming_Trend/tree/master/Visualization)<br>*% of babies with (name) by state*|
