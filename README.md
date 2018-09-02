@@ -6,14 +6,10 @@ Ever wonder how many people in the US share the same name as you? The naming tre
 The project is inspired by this dataset. I would like to look at what might affect how parents in the US name their babies and some recent naming trends through visualization.
 
 
-One of the factors that I explored is celebrity influence. The naming trend of the name Kobe suggests that the NBA star Kobe Bryant does influence people's decision in choosing a baby name. 
+One of the factors that I explored is celebrity influence. The naming trend of the name Kobe suggests that the NBA star Kobe Bryant does influence people's decision in choosing a baby name - more and more parents picked the name after his first NBA game. In my complete analysis I further investigated into how the naming trend correlates with the ups and downs of his career path.
 
 <div>
     <a href="https://plot.ly/~arielyeung/237/?share_key=1Lp9PMtcdaR8ALtkX4n6LV" target="_blank" title="kobe_trend" style="display: block; text-align: center;"><img src="https://plot.ly/~arielyeung/237.png?share_key=1Lp9PMtcdaR8ALtkX4n6LV" alt="kobe_trend" style="max-width: 100%;width: 600px;"  width="1000" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
-</div>
-
-<div>
-    <a href="https://plot.ly/~arielyeung/245/?share_key=nj5NX4SvybJOL740FeXM7G" target="_blank" title="kobe_trend1" style="display: block; text-align: center;"><img src="https://plot.ly/~arielyeung/245.png?share_key=nj5NX4SvybJOL740FeXM7G" alt="kobe_trend1" style="max-width: 100%;width: 600px;"  width="1000" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
 </div>
 
 
