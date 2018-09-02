@@ -25,7 +25,7 @@ For the rest of the project I also explored the naming trend and geographic diff
 
 
 ## Future Research Direction
-It would be interesting to gather some data from social media such as celebrities' no. of Facebook posts/ likes and no. of tweets and look at how that correlates to naming trend.
+It would be interesting to gather some data from social media such as celebrities' no. of Facebook posts/ likes or no. of tweets/ followers over time and look at how that correlates to naming trend.
 
 
 ## Index of Repository
