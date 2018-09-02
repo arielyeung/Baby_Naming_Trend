@@ -13,8 +13,9 @@ One of the factors that I explored is celebrity influence. The naming trend of t
 </div>
 
 <div>
-    <a href="https://plot.ly/~arielyeung/245/?share_key=nj5NX4SvybJOL740FeXM7G" target="_blank" title="kobe_trend1" style="display: block; text-align: center;"><img src="https://plot.ly/~arielyeung/245.png?share_key=nj5NX4SvybJOL740FeXM7G" alt="kobe_trend1" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <a href="https://plot.ly/~arielyeung/245/?share_key=nj5NX4SvybJOL740FeXM7G" target="_blank" title="kobe_trend1" style="display: block; text-align: center;"><img src="https://plot.ly/~arielyeung/245.png?share_key=nj5NX4SvybJOL740FeXM7G" alt="kobe_trend1" style="max-width: 100%;width: 600px;"  width="1000" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
 </div>
+
 
 
 I also looked at what are the most frequently used name in the past decades. From the wordcloud, Sophia and Emma are the most popular girls' name.
