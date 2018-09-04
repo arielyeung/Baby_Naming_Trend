@@ -30,7 +30,7 @@ It would be interesting to gather some data from social media such as celebritie
 
 
 ## Index of Repository
-[Analysis](https://nbviewer.jupyter.org/github/arielyeung/Baby_Naming_Trend/blob/master/Analysis.ipynb)<br> *Codes of my analysis, including interactive plots showing naming trend over time and regional difference*
+[Analysis]()<br> *Codes of my analysis, including interactive plots showing naming trend over time and regional difference*
 
 
 |Data|
